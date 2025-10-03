@@ -64,7 +64,7 @@ Example query:
 ```bash
 curl -s -H 'Content-Type: application/json' \
      -X POST http://127.0.0.1:8000/query \
-     -d '{"question":"what is attention?","top_k":3,"score_threshold":0.15}'
+     -d '{"question":"what problem does Sarathi-Serve solve?","top_k":3,"score_threshold":0.15}'
 ```
 
 ## Web UI
