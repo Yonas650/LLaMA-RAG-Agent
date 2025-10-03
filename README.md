@@ -1,6 +1,6 @@
 # Production RAG Pipeline
 
-A production-ready, fully local retrieval-augmented generation (RAG) toolkit. The
+A production ready, fully local retrieval augmented generation (RAG) toolkit. The
 pipeline ingests your PDF knowledge base into FAISS, serves a FastAPI retrieval
 service, and delivers fluent answers with Flan-T5-base through both JSON APIs and
 a minimal web UI.
