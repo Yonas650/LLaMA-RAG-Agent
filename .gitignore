@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Data & artifacts
+data/index/
+*.index
+*.idx
+metadata.json
+
+# Caches
+.cache/
+.huggingface/
+
+# Logs
+logs/
+*.log
